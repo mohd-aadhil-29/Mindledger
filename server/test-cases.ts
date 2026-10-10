@@ -1,0 +1,22 @@
+export const representativeQuestions = [
+  ['algebra','coach','message','How do I solve 3x + 5 = 20?'],
+  ['fractions','coach','hint','I am stuck adding 2/3 and 1/4.'],
+  ['geometry','coach','think','What should I notice first in this triangle proof?'],
+  ['science','coach','message','Why does a plant need sunlight?'],
+  ['reading','coach','explain','Explain the main idea of this paragraph more simply.'],
+  ['writing','coach','example','Show me a different example of a strong topic sentence.'],
+  ['logic','coach','test','Give me a new practice question about if-then reasoning.'],
+  ['coding','coach','message','Why does this JavaScript loop never stop?'],
+  ['history','coach','answer','Tell me directly what caused the printing press to spread.'],
+  ['language','coach','hint','Help me remember when to use ser and estar.'],
+  ['study planning','coach','message','Help me plan a 30-minute revision session.'],
+  ['programming','coach','message','Write a Python function that reverses a string.'],
+  ['brainstorming','coach','message','Suggest five names for a community garden.'],
+  ['summarization','coach','message','Summarize these notes into three bullet points.'],
+  ['workplace writing','coach','message','Draft a polite follow-up after an interview.'],
+  ['everyday maths','coach','message','What is 15 percent of 80?'],
+  ['creative writing','coach','message','Give me a surprising opening line for a mystery.'],
+  ['concept explanation','coach','message','Explain recursion using a simple analogy.'],
+  ['accessibility','coach','message','Break this task into short, clear steps.'],
+  ['uncertainty','coach','message','What information would you need to answer this reliably?']
+] as const
